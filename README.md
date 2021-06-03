@@ -5,4 +5,4 @@ Press W to change shape and S to speed up downward movement
 
 #DEMO
 
-<a href="https://ibb.co/v173RLW">alt="gameplay.gif" border="0" /></a>
+<a <img scr="https://ibb.co/v173RLW">alt="gameplay.gif" border="0" /></a>
