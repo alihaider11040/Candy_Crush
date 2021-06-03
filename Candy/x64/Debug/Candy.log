@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\K-A-H-D\source\repos\Candy\Candy\main.cpp(35,52): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\K-A-H-D\source\repos\Candy\Candy\main.cpp(36,52): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Candy.vcxproj -> C:\Users\K-A-H-D\source\repos\Candy\x64\Debug\Candy.exe
