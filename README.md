@@ -1,8 +1,9 @@
 # Candy_Crush
 This game has been developed using c++ and sfml. Many animations has added i.e., popout, swaping and new items.
-Press A to move left and D to move right.
-Press W to change shape and S to speed up downward movement
+This is a mouse base game. On match in cloumn or row... each peice add 10 in your score.
+It has 3 levels with a score limit and number of movements allowed.
 
+Just down load and set the projects property with sfml
 #DEMO
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/kKR4vqT/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0"></a>
